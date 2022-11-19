@@ -41,10 +41,30 @@
 </p>
 <br>
 
+<!----------------------------------- Social Media Links Section ------------------------------------>
+
+<h2><i>Let's Connect</i></h2>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brentquackenbush&show_icons=true&locale=en&layout=compact" alt="brentquackenbush" /></p>
+<p align="left">
+    <a href="https://linkedin.com/in/brent-quackenbush">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/brent-quackenbush" />
+    </a>
+    <a title="brentprogramming@gmail.com" href="mailto:brentprogramming@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="brentprogramming@gmail.com" />
+    </a>
+</p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brentquackenbush&show_icons=true&locale=en" alt="brentquackenbush" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brentquackenbush&" alt="brentquackenbush" /></p>
+<!----------------------------------- GitHub Stats Section ------------------------------------>
+
+<h2><i>My GitHub Stats</i></h2>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brentquackenbush&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brentquackenbush&layout=compact&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+</p>
+<br>
+
+
