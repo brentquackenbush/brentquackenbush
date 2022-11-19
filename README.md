@@ -2,7 +2,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Software Engineer who writes clean and efficient code. I'm currently focusing on back-end development.</i>
+    <i>- I'm a Software Engineer who's currently focusing on back-end development.</i>
 </h3>
 <br>
 
