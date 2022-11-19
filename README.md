@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=react-router&logoColor=white" alt="restAPI"/>
     <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     <img src="https://img.shields.io/badge/Kubernetes-E34F26?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+    <img src ="https://img.shields.io/badge/Kafka-CC342D?style=for-the-badge&logo=apachekafka&logoColor=white" alt = "kafka"/>
 
 </p>
 <br>
