@@ -39,6 +39,7 @@
     <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     <img src="https://img.shields.io/badge/Kubernetes-E34F26?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
     <img src ="https://img.shields.io/badge/Kafka-CC342D?style=for-the-badge&logo=apachekafka&logoColor=white" alt = "kafka"/>
+    <img src ="https://img.shields.io/badge/Go-00AED8?style=for-the-badge&logo=golang&logoColor=white" alt = "go"/>
 
 </p>
 <br>
