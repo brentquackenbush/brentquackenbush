@@ -1,73 +1,66 @@
-<h1 align="center">Hi 👋 I'm Brent Quackenbush</h1>
-<!----------------------------------- About Section ------------------------------------>
-
-<h3>
-    <i>- Software Engineer who's currently focusing on back-end dev</i>
-</h3>
-<br>
-
-
-<!----------------------------------- Profile View Section ------------------------------------>
-
-<p align="left">
-    <a href="https://github.com/brentquackenbush">
-        <img src="https://komarev.com/ghpvc/?username=brentquackenbush&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
-    </a>
-    <a href="https://github.com/brentquackenbush?tab=followers">
-        <img src="https://img.shields.io/github/followers/brentquackenbush?label=Followers&style=social" alt="followers-count">
-    </a>
-   <img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">Hi there 👋 I am  Brent Quackenbush  <img src="https://raw.githubusercontent.com/brentquackenbush/BrentQuackenbush404/main/gif/happy.gif" width="30"/></h1>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/brentquackenbush/count.svg" />
 </p>
+
+## **About Me:**
+
+hello world.
+currently in pursuit of knowledge of things.
+
+## **TechStack:**
+
+<p align="center">
+<code><img height="40" src="./svg/kotlin-original-wordmark.svg" alt="jira"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/brentquackenbush/BrentQuackenbush404/57349ace8ef179db36676b6c893c209311d4fd6d/svg/c.svg"  alt="c"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/brentquackenbush/brentquackenbush/57349ace8ef179db36676b6c893c209311d4fd6d/svg/java.svg" alt="java"></code>
+<code><img height="40" src="./svg/go-original.svg" alt="go"></code>
+<code><img height="40" src="./svg/typescript-original.svg" alt="typescript"></code>
+<code><img height="40" src="./svg/spring-original-wordmark.svg" alt="spring"></code>
+<code><img height="40" src="./svg/postgresql-original-wordmark.svg" alt="postgresql"></code>
+<code><img height="40" src="./svg/redis-original-wordmark.svg" alt="redis"></code>
+<code><img height="40" src="./svg/apachekafka-original-wordmark.svg" alt="kafka"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/brentquackenbush/brentquackenbush/main/gif/html.webp" alt="html"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/brentquackenbush/brentquackenbush/main/gif/css.webp" alt="css"></code>
+<code> <img src="https://raw.githubusercontent.com/brentquackenbush/brentquackenbush/main/gif/js.webp" height="40" alt="js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/brentquackenbush/brentquackenbush/57349ace8ef179db36676b6c893c209311d4fd6d/svg/mysql.svg" alt="mysql"></code>
+<code><img height="40" src="./svg/terraform-original-wordmark.svg" alt="docker"></code>
+<code><img height="40" src="./svg/graphql-plain.svg" alt="docker"></code>
+<code><img height="40" src="./svg/docker.svg" alt="docker"></code>
+<code><img height="40" src="./svg/kubernetes.svg"  alt="kubernetes/k8s"></code>
+<code><img height="40" src="./svg/jira.svg" alt="jira"></code>
 <br>
+<code><img height="20" src="https://raw.githubusercontent.com/brentquackenbush/brentquackenbush/main/gif/git.webp" alt="git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/brentquackenbush/brentquackenbush/main/gif/github.webp" alt="github"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/brentquackenbush/brentquackenbush/main/gif/nodejs.webp" alt="nodejs"></code>
+</p>
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
+## **Github Streak:**
 
-<h2><i>Tech Stack</i></h2>
+<p align = "center">
+  <img src = "https://streak-stats.demolab.com?user=brentquackenbush&theme=dark">
+</p>
 
-<p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-    <img src="https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=react-router&logoColor=white" alt="restAPI"/>
-    <img src="https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-    <img src="https://img.shields.io/badge/Kubernetes-E34F26?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-    <img src ="https://img.shields.io/badge/Kafka-CC342D?style=for-the-badge&logo=apachekafka&logoColor=white" alt = "kafka"/>
-    <img src ="https://img.shields.io/badge/Go-00AED8?style=for-the-badge&logo=golang&logoColor=white" alt = "go"/>
+---
+
+## **Github Stats:**
+
+<p align="center">
+  
+  ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=brentquackenbush&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brentquackenbush&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
 
 </p>
-<br>
-
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2><i>Let's Connect</i></h2>
-
-
-<p align="left">
-    <a href="https://linkedin.com/in/brent-quackenbush">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/brent-quackenbush" />
-    </a>
-    <a title="brentprogramming@gmail.com" href="mailto:brentprogramming@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="brentprogramming@gmail.com" />
-    </a>
+<p align = "center">
+  
+[![Anmol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brentquackenbush&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 </p>
-<br>
 
+---
 
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-
-<h2><i>My GitHub Stats</i></h2>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brentquackenbush&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brentquackenbush&layout=compact&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+ <h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/brentquackenbush/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<br>
-
-
