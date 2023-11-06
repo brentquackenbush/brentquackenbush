@@ -6,8 +6,7 @@
 
 ## **About Me:**
 
-hello world.
-currently in pursuit of knowledge of things.
+Hello world 🌎. In pursuit of the unfound—where code is craft and ideas the frontier.
 
 ## **TechStack:**
 
